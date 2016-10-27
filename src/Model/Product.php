@@ -3,15 +3,15 @@
 namespace TPerformant\API\Model;
 
 class Product extends GenericEntity {
-    protected $id;
-    protected $title;
-    protected $category;
-    protected $subcategory;
-    protected $brand;
-    protected $uniqueCode;
-    protected $price;
-    protected $caption;
-    protected $structuredImageUrls;
-    protected $url;
-    protected $description;
+    public $id;
+    public $title;
+    public $category;
+    public $subcategory;
+    public $brand;
+    public $uniqueCode;
+    public $price;
+    public $caption;
+    public $structuredImageUrls;
+    public $url;
+    public $description;
 }
