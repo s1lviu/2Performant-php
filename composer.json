@@ -1,9 +1,9 @@
 {
-    "name": "2performant/2performant-php",
+    "name": "s1lviu/2performant-public-data",
     "description": "PHP wrapper for 2Performant API",
     "type": "library",
     "keywords": ["2Performant", "API", "PHP", "HTTP", "REST"],
-    "homepage": "http://github.com/2Parale/2Performant-PHP",
+    "homepage": "https://github.com/s1lviu/2performant-public-data",
     "license": "MIT",
     "authors": [
         {
